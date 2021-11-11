@@ -1,4 +1,4 @@
-# **Laboratorio CSS #2: Maquetación con Grid**.
+# **Laboratorio CSS #2: Maquetación con Grid**
 
 ## ***Nivel 1.***
 
@@ -9,6 +9,7 @@
 ## ***Nivel 2.***
 
 **Oh oh, parece que hay malas hierbas creciendo en la esquina de tu jardín. Usa `grid-column-start` para envenenarlas. Fíjate en que las malas hierbas comienzan en el quinto borde vertical de la cuadrícula.**
+
 
 ## ***Nivel 3.***
 
@@ -155,4 +156,3 @@
 **Tu jardín tiene una pinta genial. Esta vez se ha dejado un camino de 50 píxeles de ancho en el fondo de tu jardín y se ha llenado el resto con zanahorias.**
 
 **Desafortunadamente, el 20% izquierdo de tus zanahorias han sido invadidas por malas hierbas. Usa CSS Grid una última vez para tratar tu jardín.**
-
